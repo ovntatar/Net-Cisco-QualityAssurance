@@ -6,7 +6,7 @@ use warnings FATAL => 'all';
 
 =head1 NAME
 
-Net::Cisco::QualityAssurance - The great new Net::Cisco::QualityAssurance!
+Net::Cisco::QualityAssurance - Net::Cisco::QualityAssurance!
 
 =head1 VERSION
 
