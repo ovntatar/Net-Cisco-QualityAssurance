@@ -21,7 +21,6 @@ our $VERSION = '0.01';
 
 Quick summary of what the module does.
 
-Perhaps a little code snippet.
 
     use Net::Cisco::QualityAssurance;
 
