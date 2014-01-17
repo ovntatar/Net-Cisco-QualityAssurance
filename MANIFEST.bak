@@ -4,6 +4,10 @@ lib/Net/Cisco/QualityAssurance.pm
 MANIFEST			This list of files
 README
 t/00-load.t
+t/boilerplate.t
 t/manifest.t
 t/pod-coverage.t
 t/pod.t
+Makefile.PL
+META.yml
+META.json
